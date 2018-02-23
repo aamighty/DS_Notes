@@ -1,7 +1,7 @@
 ## Organization
 This repository is organized in 3 notebooks:
 
-**All the Models**
+**All the Models**  
 Overview of many of the modeling techniques that were covered in class
 - Cross Validation
 - Linear Regression
@@ -31,7 +31,7 @@ Overview of many of the modeling techniques that were covered in class
   - textblob
   - Latent Dirichlet Allocation
 
-**Stats on Stats on Stats**
+**Stats on Stats on Stats**  
 Statistics Review
 - Covariance & Correlation
 - Central Limit Theorm & Confidence Intervals
