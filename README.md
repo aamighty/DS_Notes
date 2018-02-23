@@ -20,9 +20,7 @@ Overview of many of the modeling techniques that were covered in class
 - Neural Networks
 
 **Feature Engineering**
-- Regularization
-- Resursive Feature Elimination
-- Automatic Feature Selection with SelectKBest
+- Feature Selection
 - Principle Component Analysis
 - Natural Language Preprocessing 
   - Vectorizers
